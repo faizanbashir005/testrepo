@@ -1,2 +1,4 @@
 router ospf 10
  router-id 1.1.1.1
+router bgp 200
+ router-id 2.2.2.2
